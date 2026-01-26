@@ -1,72 +1,48 @@
-# Hi 👋, I'm Abraham
+👋 Hi, I’m Abraham
+🔭 About Me
 
-🎓 Computer Science Student  
-💻 Aspiring Software Engineer  
-🌱 Constantly learning and building projects  
-📍 Interested in Web Development, Backend Systems, and Machine Learning
+I’m a passionate and results-driven software developer with a focus on building practical, real-world applications and automation tools. On GitHub, I explore a diverse range of technologies — from Python automation scripts and ML-powered projects to Java applications, web development, and workflow automations. My goal is to continuously learn, improve, and contribute to open source software that solves real problems.
 
----
+💡 What I’m Building
 
-## 🧠 About Me
+I work on:
 
-I'm a passionate computer science student who enjoys breaking down complex concepts and turning them into practical projects.  
-Currently focused on:
-- Strengthening core CS fundamentals
-- Building real-world applications
-- Preparing for academic exams and technical interviews
+🧠 Machine Learning & Data Projects — practical 📊 notebooks, data-centric tools.
 
-I believe in **learning by doing** and improving one project at a time.
+🤖 Automation Tools — scrapers, bots, utilities to streamline workflows.
 
----
+🛠 Full-stack & Backend Apps — RESTful services, utility scripts, and integrations.
 
-## 🛠️ Tech Stack
+📱 Everyday Tools — from productivity apps to fun Python and Java projects.
 
-### 💻 Programming Languages
-- Python
-- JavaScript
-- Java
+With 20+ public repositories and counting, my GitHub showcases projects ranging from scraping tools to ML experiments and workflow automations.
 
-### 🌐 Web Development
-- HTML, CSS
-- React (Vite)
-- Node.js, Express.js
-- REST APIs
+🛠 Tools & Technologies
 
-### 🗄️ Databases
-- MongoDB (Mongoose)
+Here are some of the key technologies I use:
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Docker (beginner)
-- Cisco Packet Tracer
-- Linux (basic)
+Languages: Python, Java, JavaScript (HTML/CSS)
 
----
+Frameworks & Tools: Flask, Jupyter Notebook, Selenium, Pandas
 
-## 📚 Currently Learning
-- Advanced Backend Development
-- Design Patterns
-- Machine Learning concepts
-- Automation & Web Scraping with Python
+Concepts: Web scraping, machine learning basics, automation, REST APIs
 
----
+🌱 Currently Learning
 
-## 🚀 Projects & Practice
+Advanced backend development
 
-I work on projects that help me understand:
-- Backend logic and APIs
-- Client-server architecture
-- Automation and scripting
-- Problem solving using code
+Modern full-stack patterns
 
-👉 Check out my repositories to see my learning journey.
+Deployment with cloud platforms
 
----
+⭐ Highlights
 
-## 🤝 Connect With Me
+Consistently building useful open-source tools
 
-- GitHub: [https://github.com/Ghionab](https://github.com/Ghionab)
+Actively learning and experimenting with new tech
 
----
+Growing community contributions and portfolio
 
-⭐ *Thanks for visiting my profile!*
+📫 Connect With Me
+
+I’m always open to collaboration and networking — let’s build something awesome!
