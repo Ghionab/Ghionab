@@ -1,10 +1,10 @@
-Hi, I’m Abraham
+Hi, I'm Abraham
 
- About Me
+## About Me
  
-I’m a passionate and results-driven software developer with a focus on building practical, real-world applications and automation tools. On GitHub, I explore a diverse range of technologies — from **Python automation scripts** and **ML-powered projects** to **Java applications**, **web development**, and **workflow automations**. My goal is to continuously learn, improve, and contribute to open source software that solves real problems.
+I'm a passionate and results-driven software developer with a focus on building practical, real-world applications and automation tools. On GitHub, I explore a diverse range of technologies — from **Python automation scripts** and **ML-powered projects** to **Java applications**, **web development**, and **workflow automations**. My goal is to continuously learn, improve, and contribute to open source software that solves real problems.
 
-### 💡 What I’m Building
+### 💡 What I'm Building
 I work on:
 - 🧠 **Machine Learning & Data Projects** — practical 📊 notebooks and data-centric tools  
 - 🤖 **Automation Tools** — scrapers, bots, and utilities to streamline workflows  
@@ -29,8 +29,4 @@ With 20+ public repositories and counting, my GitHub showcases projects ranging 
 - Growing project portfolio and GitHub presence  
 
 ### 📫 Connect With Me
-I’m always open to collaboration and networking — let’s build something awesome!
-
-
-
-
+I'm always open to collaboration and networking — let's build something awesome!
