@@ -1,32 +1,83 @@
-Hi, I'm Abraham
+# 👋 Hi, I’m Abraham
 
-## About Me
- 
-I'm a passionate and results-driven software developer with a focus on building practical, real-world applications and automation tools. On GitHub, I explore a diverse range of technologies — from **Python automation scripts** and **ML-powered projects** to **Java applications**, **web development**, and **workflow automations**. My goal is to continuously learn, improve, and contribute to open source software that solves real problems.
+**Software Developer | Automation Engineer | AI & Data Enthusiast**
 
-### 💡 What I'm Building
-I work on:
-- 🧠 **Machine Learning & Data Projects** — practical 📊 notebooks and data-centric tools  
-- 🤖 **Automation Tools** — scrapers, bots, and utilities to streamline workflows  
-- 🛠 **Full-stack & Backend Apps** — RESTful services, utility scripts, and integrations  
-- 📱 **Everyday Tools** — productivity apps and experimental projects  
+I build **practical software**, **automation systems**, and **AI-powered agents** that solve real-world problems.  
+My work focuses on backend development, intelligent automation, data extraction, and machine learning experimentation.
 
-With 20+ public repositories and counting, my GitHub showcases projects ranging from **scraping tools** to **ML experiments** and **workflow automations**.
+---
 
-### 🛠 Tools & Technologies
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Flask, Jupyter Notebook, Selenium, Pandas  
-- **Concepts:** Web scraping, machine learning basics, automation, REST APIs  
+## 🧠 About Me
 
-### 🌱 Currently Learning
-- Advanced backend development  
-- Modern full-stack patterns  
-- Cloud deployment and scalability  
+| Focus Area | Description |
+|-----------|------------|
+| 👨‍💻 Core Role | Software Developer focused on real-world solutions |
+| 🤖 Specialties | Automation, AI agents, backend systems |
+| 📊 Interests | Data extraction, ML experiments, workflow automation |
+| 🚀 Goal | Build scalable, useful, and impactful software |
+| 🌍 Open Source | Actively building and sharing projects |
 
-### ⭐ Highlights
-- Consistently building useful open-source tools  
-- Actively learning and experimenting with new technologies  
-- Growing project portfolio and GitHub presence  
+---
 
-### 📫 Connect With Me
-I'm always open to collaboration and networking — let's build something awesome!
+## 💡 What I’m Building
+
+| Category | What I Work On |
+|--------|---------------|
+| 🧠 Machine Learning | Practical ML notebooks and data-driven tools |
+| 🤖 Automation | Scrapers, bots, and workflow automation utilities |
+| 🧩 AI Agents | Intelligent agents built using **n8n** and **LangChain** |
+| 🤝 AI Integration | Applying AI capabilities to real-world systems |
+| 🛠 Backend Development | REST APIs, utility scripts, and integrations |
+| 📊 Data Extraction | Web scraping and data processing pipelines |
+| 📱 Productivity Tools | Small apps and experimental utilities |
+
+📦 **20+ public repositories** covering automation, AI-driven workflows, ML experiments, and backend services.
+
+---
+
+## 🛠 Tech Stack
+
+### 🔤 Languages
+| Python | Java | JavaScript | HTML | CSS |
+|------|------|------------|------|-----|
+
+### 🧰 Frameworks & Tools
+| Category | Tools |
+|--------|-------|
+| Backend | Flask , Nodejs, FastAPI|
+| Automation | Selenium, **n8n**, Puppeter, Playwrigt, |
+| AI / LLM | **LangChain** |
+| Data | Pandas, Jupyter Notebook |
+
+### 🧩 Core Concepts
+| Automation | AI Agents | Web Scraping | REST APIs | ML Basics |
+|-----------|-----------|-------------|----------|-----------|
+
+---
+
+## 🌱 Currently Learning
+
+| Area | Focus |
+|----|-------|
+| Backend | Advanced backend patterns |
+| AI Agents | Agent orchestration & decision pipelines |
+| Full-Stack | Modern architectures |
+| Cloud | Deployment, scalability, reliability |
+
+---
+
+## ⭐ Highlights
+
+- 🚀 Building real-world **AI agents and automation pipelines**
+- 🧠 Strong focus on **problem-solving over demos**
+- 📈 Consistently growing open-source project portfolio
+
+---
+
+## 📫 Let’s Connect
+
+| 🤝 Collaboration | 💬 Networking |
+|----------------|--------------|
+| Open to working on automation, AI, and backend projects | Always happy to connect and share ideas |
+
+> **Let’s build something useful.**
