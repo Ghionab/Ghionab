@@ -76,8 +76,7 @@ My work focuses on backend development, intelligent automation, data extraction,
 
 ## 📫 Let’s Connect
 
-| 🤝 Collaboration | 💬 Networking |
-|----------------|--------------|
-| Open to working on automation, AI, and backend projects | Always happy to connect and share ideas |
+| 🤝 Collaboration and  💬 Networking |
 
+ Open to working on automation, AI, and backend projects 
 > **Let’s build something useful.**
